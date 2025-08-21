@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Vicky Besra! 👋<br>I'm a passionate fourth-year Undergraduate student at IIT Kharagpur, India. Currently, I'm diving deep into Go programming and actively contributing to CNCF Projects.<br><br>🔧 What I'm working on:<br>Building a solid foundation in Development and DevOps this year.<br>Exploring cutting-edge technologies and contributing to open-source initiatives.<br><br> Let's build something awesome together.<br><be>
+Hi there, I'm Vicky Besra! 👋<br>I'm a passionate final Undergraduate student at IIT Kharagpur, India. Currently, I'm diving deep into Go programming and actively contributing to CNCF Projects.<br><br>🔧 What I'm working on:<br>Building a solid foundation in Development and DevOps this year.<br>Exploring cutting-edge technologies and contributing to open-source initiatives.<br><br> Let's build something awesome together.<br><be>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickybesra/vickybesra/output/github-snake-dark.svg" />
